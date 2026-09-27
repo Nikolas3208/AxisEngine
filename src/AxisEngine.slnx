@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="AxisEngine.Assets/AxisEngine.Assets.csproj" />
+  <Project Path="AxisEngine.Core/AxisEngine.Core.csproj" />
+  <Project Path="AxisEngine.ECS/AxisEngine.ECS.csproj" />
+  <Project Path="AxisEngine.Mathematics/AxisEngine.Mathematics.csproj" />
+  <Project Path="AxisEngine.OpenGLBackend/AxisEngine.OpenGLBackend.csproj" />
+  <Project Path="AxisEngine/AxisEngine.csproj" />
+</Solution>
