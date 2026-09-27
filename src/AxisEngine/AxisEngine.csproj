@@ -6,4 +6,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\AxisEngine.Assets\AxisEngine.Assets.csproj" />
+    <ProjectReference Include="..\AxisEngine.Core\AxisEngine.Core.csproj" />
+    <ProjectReference Include="..\AxisEngine.OpenGLBackend\AxisEngine.OpenGLBackend.csproj" />
+  </ItemGroup>
+
 </Project>

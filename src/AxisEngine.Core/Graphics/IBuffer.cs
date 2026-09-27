@@ -2,7 +2,7 @@
 {
     public interface IBuffer : IDisposable
     {
-        uint Handle { get; }
+        int Handle { get; }
 
         void Bind();
         void Unbind();

@@ -5,4 +5,5 @@
   <Project Path="AxisEngine.Mathematics/AxisEngine.Mathematics.csproj" />
   <Project Path="AxisEngine.OpenGLBackend/AxisEngine.OpenGLBackend.csproj" />
   <Project Path="AxisEngine/AxisEngine.csproj" />
+  <Project Path="SundBox/SundBox.csproj" Id="a8f15f64-1645-4531-bad9-f95119031439" />
 </Solution>

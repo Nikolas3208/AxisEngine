@@ -4,12 +4,12 @@
     {
         public IVertexBuffer VertexBuffer { get; }
 
-        public VertexBufferAttachment Attachment { get; }
+        public VertexBufferElement[] Elements;
 
-        public VertexBufferLayout(IVertexBuffer vertexBuffer, VertexBufferAttachment attachment)
+        public VertexBufferLayout(IVertexBuffer vertexBuffer, params VertexBufferElement[] elements)
         {
             VertexBuffer = vertexBuffer;
-            Attachment = attachment;
+            Elements = elements;
         }
     }
 }
