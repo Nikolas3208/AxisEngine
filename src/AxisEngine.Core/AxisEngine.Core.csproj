@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\AxisEngine.ECS\AxisEngine.ECS.csproj" />
+    <ProjectReference Include="..\AxisEngine.Mathematics\AxisEngine.Mathematics.csproj" />
+  </ItemGroup>
+
 </Project>
