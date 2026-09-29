@@ -1,4 +1,6 @@
-﻿namespace AxisEngine.Core.Graphics
+﻿using AxisEngine.Core.Graphics.Abstractions.Buffers;
+
+namespace AxisEngine.Core.Graphics
 {
     public struct VertexBufferLayout
     {

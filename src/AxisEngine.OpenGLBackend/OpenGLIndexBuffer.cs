@@ -1,4 +1,4 @@
-﻿using AxisEngine.Core.Graphics;
+﻿using AxisEngine.Core.Graphics.Abstractions.Buffers;
 using OpenTK.Graphics.OpenGL4;
 
 namespace AxisEngine.OpenGLBackend

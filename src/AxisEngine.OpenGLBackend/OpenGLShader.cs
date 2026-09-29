@@ -1,4 +1,4 @@
-﻿using AxisEngine.Core.Graphics;
+﻿using AxisEngine.Core.Graphics.Abstractions.Resources;
 using AxisEngine.Mathematics;
 using OpenTK.Graphics.OpenGL4;
 

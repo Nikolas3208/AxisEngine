@@ -1,6 +1,6 @@
 ﻿using AxisEngine.Mathematics;
 
-namespace AxisEngine.Core.Graphics
+namespace AxisEngine.Core.Graphics.Abstractions.Resources
 {
     public interface IShader : IDisposable
     {

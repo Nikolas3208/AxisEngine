@@ -1,6 +1,6 @@
 ﻿using AxisEngine.Mathematics;
 
-namespace AxisEngine.Core.Graphics
+namespace AxisEngine.Core.Graphics.Abstractions
 {
     public interface IWindow : IDisposable
     {

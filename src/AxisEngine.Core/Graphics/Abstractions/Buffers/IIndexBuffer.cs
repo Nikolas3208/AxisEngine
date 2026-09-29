@@ -1,4 +1,4 @@
-﻿namespace AxisEngine.Core.Graphics
+﻿namespace AxisEngine.Core.Graphics.Abstractions.Buffers
 {
     public interface IIndexBuffer : IBuffer
     {
